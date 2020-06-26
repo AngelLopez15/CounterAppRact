@@ -1,5 +1,5 @@
-#Mi Primer App con React
+Mi Primer App con React
 
-##Counter
+Counter
 
-###Contador con 3 botones +1 -1 y Reset
+Contador con 3 botones +1 -1 y Reset

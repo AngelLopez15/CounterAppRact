@@ -5,7 +5,7 @@ const CounterApp = ({value})=>{
     // se desestructura el hoook useState dentro de los "[ ]"
     // el primer parametro es la funcion y el segundo es la forma 
     // de usar la funcion
-    const [counter, setCounter] = useState(0)
+    const [counter, setCounter] = useState(value)
     // funcion para ver el evento del click
     const handleAdd = (e)=>{
         // setCounter(counter+1) otra forma de ponerlo
